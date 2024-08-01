@@ -4,7 +4,7 @@
 <h2>REST API With Laravel</h2>
 
 <h4>Model</h4>
-<p>• php artisan make:model <i>ModelName<i>  --all</p>
+<p>• php artisan make:model <i>ModelName</i>  --all</p>
 
 <h4>Resource</h4>
 <p>• php artisan make:resource <i>NameOfResource</i></p>
